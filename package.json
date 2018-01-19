@@ -1,0 +1,16 @@
+{
+  "name": "fslandingpage",
+  "version": "1.0.0",
+  "description": "Full screen landing page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "url-course": "https://www.youtube.com/watch?v=Y5SHm53WFEk",
+  "author": "Alin Georgian Antoci",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
